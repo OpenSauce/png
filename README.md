@@ -5,9 +5,9 @@ PostgresQL, Nuxt.js and Golang Stack
 
 ## Description
 
-A simple starting template for a complete stack using the following technologies:
+A simple starting template for a complete stack using the following:
 
-- PostgresQL
+- PostgreSQL
 - Nuxt.js
 - Golang
 - NGINX
